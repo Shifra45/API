@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "title": "string",
+    "author": "string",
+    "isbn": "978-1578700714"
+  },
+  {
+    "id": 1,
+    "title": "Python for Dummies",
+    "author": "Stef Maruch Aahz Maruch",
+    "isbn": "978-0471778646"
+  },
+  {
+    "id": 2,
+    "title": "Linux for Networkers",
+    "author": "Cisco Systems Inc.",
+    "isbn": "000-0000000123"
+  },
+  {
+    "id": 3,
+    "title": "NetAcad: 20 Years Of Online-Learning",
+    "author": "Cisco Systems Inc.",
+    "isbn": "000-0000001123"
+  },
+  {
+    "id": 4,
+    "title": "Switchable system-worthy software",
+    "author": "Alexander Moody",
+    "isbn": "978-0-589-25772-9"
+  },
+  {
+    "id": 5,
+    "title": "Innovative system-worthy support",
+    "author": "Willie Williams",
+    "isbn": "978-1-05-146211-5"
+  },
+  {
+    "id": 6,
+    "title": "Stand-alone zero administration architecture",
+    "author": "Angelica Porter",
+    "isbn": "978-1-62230-837-8"
+  },
+  {
+    "id": 7,
+    "title": "Robust systematic complexity",
+    "author": "John Baldwin",
+    "isbn": "978-0-653-62111-1"
+  },
+  {
+    "id": 8,
+    "title": "Open-architected transitional instruction set",
+    "author": "Marissa Estrada",
+    "isbn": "978-1-326-61035-7"
+  },
+  {
+    "id": 9,
+    "title": "Persistent non-volatile alliance",
+    "author": "Linda Carter",
+    "isbn": "978-0-8136-7669-2"
+  }
+]
